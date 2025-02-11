@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+
 	"regexp"
 
 	"github.com/mathismqn/godeez/internal/config"

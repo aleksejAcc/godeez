@@ -3,6 +3,7 @@ package tags
 import (
 	"fmt"
 	"strconv"
+
 	"strings"
 
 	"github.com/bogem/id3v2/v2"
